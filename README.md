@@ -23,12 +23,6 @@ This project aims to detect fake news from real news using **Natural Language Pr
 - Built using **Flask**  
 - Interactive frontend with HTML, CSS, and JavaScript  
 
----
-
-## 📁 Webapp Structure
-
-<img width="612" alt="image" src="https://github.com/user-attachments/assets/29a4025d-257e-4b11-9680-17263b37babc" />
-
 
 ---
 
@@ -75,6 +69,19 @@ The frontend allows users to:
 Flask handles:  
 - Backend prediction using pre-trained models.  
 - Rendering templates with results.
+
+  ---
+
+## 📁 Webapp Structure
+
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/29a4025d-257e-4b11-9680-17263b37babc" />
+
+
+## WebApp Preview:
+<video width="640" height="360" controls>
+  <source src="path/to/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
