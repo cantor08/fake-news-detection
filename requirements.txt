@@ -1,0 +1,1 @@
+# Core Librariesnumpy==1.26.4pandas==2.2.2# Text Processingnltk==3.8.1scikit-learn==1.4.2# Deep Learningtensorflow==2.15.0keras==2.15.0# Web AppFlask==3.0.2# Optional (for HTML templating, deployment, and dev)gunicorn==21.2.0Werkzeug==3.0.1# Othersjoblib==1.4.2
