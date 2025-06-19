@@ -78,10 +78,8 @@ Flask handles:
 
 
 ## WebApp Preview:
-<video width="640" height="360" controls>
-  <source src="path/to/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://youtu.be/RI1kdJH3I48?si=ZvSi21G5AN2xGXPy" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
